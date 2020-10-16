@@ -5300,3 +5300,31 @@ span.cm-def {
 .highlight .il {
     color: #EC7600!important
 }
+.fancy-title {
+    color: #EEEEEE!important
+}
+.topic-area {
+    --primary: #fff;
+    --tertiary: #293134;
+    --tertiary-low: #293134;
+    --tertiary-low-or-tertiary-high: #293134;
+    --tertiary-or-white: #293134;
+}
+.nums {
+    --tertiary: #293134;
+    --tertiary-low: #293134;
+    --tertiary-low-or-tertiary-high: #293134;
+    --tertiary-or-white: #293134;
+}
+.quote {
+    --blend-primary-secondary-5: #111;
+}
+.bg {
+    --tertiary: #24292e;
+    --tertiary-low: #24292e;
+    --tertiary-low-or-tertiary-high: #24292e;
+    --tertiary-or-white: #24292e;
+}
+.topic-map {
+    background: #1d1d1d;
+}
